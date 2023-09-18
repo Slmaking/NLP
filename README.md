@@ -1,6 +1,6 @@
 # Natural Lnagugage processing models 
 
-
+<p align="justify">
 **Abstract**
 
 In this project, two models were used for text mining: Multinomial Naive Bayes and BERT. Both models attained high accuracy, but BERT outperformed Naive Bayes with a 93% accuracy compared to Naive Bayes with 85% accuracy. The Naive Bayes model was optimized by performing a grid search over the alpha Laplace smoothing parameter, the maximum number of features, and the training set size. In the second phase of the project, for the BERT model, a pre-trained BERT model was implemented with an 80/20 train-test split. A grid search was conducted to find the optimal hyperparameters and it was found that the highest accuracy, 93%, was achieved with a learning rate of 2e-5, a maximum token length of 512, and a batch size of 32. In the last part, multi-layer multi-headed attention was added to the BERT model to see the attention scores of each token for some correctly and incorrectly predicted sentences. The attention matrix helped to recognize the relation between tokens better.
