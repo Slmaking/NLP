@@ -1,6 +1,5 @@
 # Natural Lnagugage processing models 
 
-<p align="justify">
   
 **Abstract**
 
