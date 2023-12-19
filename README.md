@@ -1,4 +1,4 @@
-# Natural Lnagugage processing models 
+# Natural Lnagugage Processing models 
 
   
 # Abstract
